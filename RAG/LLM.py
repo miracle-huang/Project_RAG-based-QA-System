@@ -1,8 +1,8 @@
 from typing import Dict, List, Optional, Tuple, Union
 
-```
+'''
 大语言模型模块 - 提供对话生成能力
-```
+'''
 
 PROMPT_TEMPLATE = dict(
     # 中文 Prompt 模板

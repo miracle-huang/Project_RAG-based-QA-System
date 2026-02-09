@@ -6,9 +6,9 @@ import numpy as np
 from dotenv import load_dotenv, find_dotenv
 _ = load_dotenv(find_dotenv())
 
-```
+"""
 向量化模块 - 将文本转换为向量表示
-```
+"""
 
 class BaseEmbeddings:
     """
