@@ -295,12 +295,6 @@ ZHIPUAI_API_KEY='your zhipuai key'
 └─────────────────────────────────────────────────────┘
 ```
 
-## 📝 ライセンス
-
-このプロジェクトは [MIT License](LICENSE) の下で公開されています。
-
----
-
 <p align="center">
   Made with ❤️ by <a href="https://github.com/miracle-huang">miracle-huang</a>
 </p>
